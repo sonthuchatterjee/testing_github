@@ -1,2 +1,4 @@
 this is the first file and first line
 this is the first file and second line
+this is the first file and second line in branch branch1
+this is the first file and third in branch branch1
