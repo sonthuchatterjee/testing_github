@@ -1,3 +1,4 @@
 first line of file5 in branch master
 second line of file5 in branch master
 third line of file5 in branch master
+fourth line of file5 in branch master
